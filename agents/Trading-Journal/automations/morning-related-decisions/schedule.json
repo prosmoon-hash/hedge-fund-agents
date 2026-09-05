@@ -1,0 +1,14 @@
+{
+  "name": "Morning related decisions",
+  "enabled": true,
+  "schedule": "15 8 * * *",
+  "triggerPresentation": {
+    "version": 1,
+    "trigger": {
+      "type": "cron",
+      "schedule": "15 8 * * *"
+    }
+  },
+  "provenance": "untrusted",
+  "createdAt": 1788001922781
+}

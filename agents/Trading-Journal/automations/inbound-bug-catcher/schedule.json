@@ -1,0 +1,12 @@
+{
+  "name": "Inbound bug catcher",
+  "enabled": true,
+  "triggerPresentation": {
+    "version": 1,
+    "trigger": {
+      "type": "webhook"
+    }
+  },
+  "provenance": "untrusted",
+  "createdAt": 1788002584392
+}

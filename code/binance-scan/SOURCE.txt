@@ -1,0 +1,11 @@
+Canonical Python scripts from /workspace/binance-scan-2340
+Plus unique helpers from /workspace/binance-scan-0838 if missing:
+- build_universe.py
+- do_recheck.py
+- fetch_books.py
+- finalize.py
+- score.py
+- live_recheck.py (from binance-scan-0838)
+- rank_liquid.py (from binance-scan-0838)
+
+Large JSON dumps, RESULT.json, exchangeInfo, ticker dumps EXCLUDED.

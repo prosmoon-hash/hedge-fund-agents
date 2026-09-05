@@ -1,0 +1,14 @@
+{
+  "name": "Operator email instructions",
+  "enabled": true,
+  "schedule": "*/15 * * * *",
+  "triggerPresentation": {
+    "version": 1,
+    "trigger": {
+      "type": "cron",
+      "schedule": "*/15 * * * *"
+    }
+  },
+  "provenance": "user",
+  "createdAt": 1788279904874
+}

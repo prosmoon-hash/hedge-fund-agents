@@ -1,0 +1,14 @@
+{
+  "name": "Nightly pass",
+  "enabled": true,
+  "schedule": "3 18 * * *",
+  "triggerPresentation": {
+    "version": 1,
+    "trigger": {
+      "type": "cron",
+      "schedule": "3 18 * * *"
+    }
+  },
+  "provenance": "user",
+  "createdAt": 1788001467908
+}

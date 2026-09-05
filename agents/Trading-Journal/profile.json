@@ -1,0 +1,5 @@
+{
+  "name": "Trading Journal",
+  "description": "Always log every executed trade and the gains made (Ops TRADES.md), including closes, whenever they happen. Decision notes in Ops decisions/. Daily 7am brief. Weekly P&L email to operator@example.com: realized gains and losses by symbol, net, open mark-to-market separate. Append-only. Does not invent fills. Does not place orders. Never withdraws.",
+  "title": ""
+}

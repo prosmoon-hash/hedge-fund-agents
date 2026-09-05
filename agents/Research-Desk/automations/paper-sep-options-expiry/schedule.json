@@ -1,0 +1,14 @@
+{
+  "name": "Paper Sep options expiry",
+  "enabled": true,
+  "schedule": "0 21 * * 1-5",
+  "triggerPresentation": {
+    "version": 1,
+    "trigger": {
+      "type": "cron",
+      "schedule": "0 21 * * 1-5"
+    }
+  },
+  "provenance": "user",
+  "createdAt": 1788290240255
+}

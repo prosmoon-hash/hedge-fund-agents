@@ -1,0 +1,14 @@
+{
+  "name": "Morning intake",
+  "enabled": true,
+  "schedule": "0 8 * * 1-5",
+  "triggerPresentation": {
+    "version": 1,
+    "trigger": {
+      "type": "cron",
+      "schedule": "0 8 * * 1-5"
+    }
+  },
+  "provenance": "user",
+  "createdAt": 1788001628604
+}

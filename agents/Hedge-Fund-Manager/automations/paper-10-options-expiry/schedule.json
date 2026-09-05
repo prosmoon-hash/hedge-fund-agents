@@ -1,0 +1,14 @@
+{
+  "name": "Paper 10 options expiry",
+  "enabled": true,
+  "schedule": "15 21 4 9 *",
+  "triggerPresentation": {
+    "version": 1,
+    "trigger": {
+      "type": "cron",
+      "schedule": "15 21 4 9 *"
+    }
+  },
+  "provenance": "user",
+  "createdAt": 1788290109637
+}

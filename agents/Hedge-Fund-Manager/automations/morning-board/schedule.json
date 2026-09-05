@@ -1,0 +1,14 @@
+{
+  "name": "Morning board",
+  "enabled": true,
+  "schedule": "3 8 * * *",
+  "triggerPresentation": {
+    "version": 1,
+    "trigger": {
+      "type": "cron",
+      "schedule": "3 8 * * *"
+    }
+  },
+  "provenance": "user",
+  "createdAt": 1788001467936
+}

@@ -1,0 +1,47 @@
+# Secrets & credentials
+.env
+.env.*
+*.pem
+*.key
+hosts.yml
+**/credentials*
+**/*secret*
+**/*token*
+
+# Databases & runtime
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+store.db
+audit.jsonl
+conversation-blobs/
+attachments/
+
+# Binance API screenshots
+binance-api-management*.png
+**/*api*key*.png
+**/*api*management*.png
+
+# Dependencies & caches
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Large scan / paper dumps
+**/RESULT.json
+**/exchangeInfo.json
+**/ticker24hr*.json
+**/premiumIndex*.json
+**/*.tsv
+paper-mark-*.json
+paper-mark-*.tsv
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/

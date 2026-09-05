@@ -1,0 +1,14 @@
+{
+  "name": "Evening untaken proposal backtest",
+  "enabled": true,
+  "schedule": "0 18 * * *",
+  "triggerPresentation": {
+    "version": 1,
+    "trigger": {
+      "type": "cron",
+      "schedule": "0 18 * * *"
+    }
+  },
+  "provenance": "untrusted",
+  "createdAt": 1788181817918
+}

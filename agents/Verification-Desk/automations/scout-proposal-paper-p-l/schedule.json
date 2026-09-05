@@ -1,0 +1,14 @@
+{
+  "name": "Research proposal paper P&L",
+  "enabled": false,
+  "schedule": "2-59/5 * * * *",
+  "triggerPresentation": {
+    "version": 1,
+    "trigger": {
+      "type": "cron",
+      "schedule": "2-59/5 * * * *"
+    }
+  },
+  "provenance": "untrusted",
+  "createdAt": 1788171087090
+}

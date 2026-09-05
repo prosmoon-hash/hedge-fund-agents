@@ -1,0 +1,14 @@
+{
+  "name": "CLARITY Act Senate vote",
+  "enabled": true,
+  "schedule": "0,30 19-23 15 9 *",
+  "triggerPresentation": {
+    "version": 1,
+    "trigger": {
+      "type": "cron",
+      "schedule": "0,30 19-23 15 9 *"
+    }
+  },
+  "provenance": "untrusted",
+  "createdAt": 1788328033027
+}
