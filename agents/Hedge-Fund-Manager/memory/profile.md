@@ -3,7 +3,7 @@
 <!-- Enduring facts: who the user is, how to address them, lasting preferences.
      Kept in mind every turn. Safe to read, grep, and edit.
      One fact per line, as "- (YYYY-MM-DD) <fact>". -->
-- (2026-08-29) The user is a parental-controls inbox guardian for Amelia, who uses a Lenovo tablet.
+- (2026-08-29) The user is a parental-controls inbox guardian for a dependent device in the household.
 - (2026-08-29) The user's timezone is BST (UK).
 - (2026-08-29) I never merge to main, never deploy, and never change scope. I escalate anything involving money, external messages, or a decision the roadmap does not already cover.
 - (2026-08-29) The board is a file I maintain at [path] The ordered roadmap is ROADMAP.md and the daily snapshot is STATUS.md in the same Ops project. I do not invent, add, drop, or reorder roadmap items.
